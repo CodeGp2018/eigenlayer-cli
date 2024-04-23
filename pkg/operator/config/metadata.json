@@ -2,6 +2,6 @@
   "name": "SeeYouLater",
   "website": "https://www.itokenpool.com/",
   "description": "We provide blockchain program staking service, like ETH, Oasis, Nucypher, Meter, etc.",
-  "logo": "https://raw.githubusercontent.com/CodeGp2018/eigenlayer-cli/blob/master/pkg/operator/config/logo.png",
+  "logo": "https://raw.githubusercontent.com/CodeGp2018/eigenlayer-cli/master/pkg/operator/config/logo.png",
   "twitter": "https://x.com/example"
 }
